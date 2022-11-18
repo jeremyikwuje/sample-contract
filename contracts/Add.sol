@@ -6,7 +6,9 @@
 pragma solidity ^0.8.0;
 
 // Defining a contract
-contract Test
+// This contract perform
+// addition btwn values
+contract Add
 {
     // Declaring state variables
     uint public var1;
