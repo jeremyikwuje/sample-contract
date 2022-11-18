@@ -1,6 +1,6 @@
 # Hardhat Project
 
-This project demonstrates a several Hardhat use case. It has multiple sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a several Hardhat use case. It has multiple sample contracts, a test for each contract, and a script that deploys each contract.
 
 Try running some of the following tasks:
 
@@ -16,3 +16,8 @@ Then run any of the deploy scripts. See example:
 ```
 npx hardhat run scripts/deploy-bodmas.js
 ```
+
+Check the `contracts` and `scripts` folder for more sample contracts and deployments, respectively.
+
+### issues
+Need help on running of them? open an issue and I will assist.
